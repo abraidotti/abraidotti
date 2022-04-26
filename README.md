@@ -19,3 +19,6 @@ My job includes clound-native engineering, app development, pentesting, and maki
 ### Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandrobraidotti/)](https://www.linkedin.com/in/alessandrobraidotti/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sndbra)](https://twitter.com/sndbra)
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
