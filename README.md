@@ -4,17 +4,19 @@ I do technical consulting at [CDI](https://www.cdillc.com/).
 
 My job includes clound-native engineering, app development, pentesting, and making [Splunk](https://www.splunk.com/) environments work smarter, not harder.
 
-## What I've done as a consultant:
+## What I do as a DevSecOps consultant:
 
-- React apps with AWS Lambda microservices
+- Perform internal and external network and web app pentesting
 
-- Infrastructure as Code and virtualization with Terraform, git CI/CD, and VMware 
+- Develop React/Node/AWS apps and Python/NoSQL/SQL apps
 
-- Command line apps in Python and Bash
+- Construct Infrastructure as Code and virtualization with Terraform, git CI/CD, and VMware 
 
-- Splunk administration, integration, and dashboards
+- Automate stuff with command line apps in Python and Bash
 
-- advisory projects for secure cloud-native development
+- Splunk (intransitive verb). While Splunking, I administrate, integrate, and make cool dashboards
+
+- Perform enterprise-level advisory projects for secure, cloud-native development
 
 ### Find me elsewhere
 
